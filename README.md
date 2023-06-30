@@ -1,5 +1,7 @@
 # xlsx-test
 
+### xlsx 라이브러리 연습을 위한 프로젝트
+
 ## Project setup
 ```
 npm install
