@@ -1,18 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <LearnXlsx />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import LearnXlsx from './components/LearnXlsx.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    LearnXlsx
+  },
 }
 </script>
 
